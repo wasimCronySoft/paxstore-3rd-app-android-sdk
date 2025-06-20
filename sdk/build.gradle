@@ -57,4 +57,4 @@ dependencies {
 //    api files('libs\\app-java-sdk-8.4.2.1.jar')
 }
 
-apply from :"../publishAndroidLib.gradle"
+//apply from :"../publishAndroidLib.gradle"
